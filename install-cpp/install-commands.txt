@@ -2,7 +2,11 @@ Install C++ and its compiler G++
 ------------------------------------------------------------
 
 To install C++ and the GNU Compiler Collection (g++) on your system, follow these general steps based on the operating system you are using.
-We have listed steps for Linux, MacOS and Windows.
+We have listed steps for:
+
+* Linux
+* MacOS
+* Windows
 
 For Linux (Ubuntu/Debian):
 ------------------------------------------------------------
