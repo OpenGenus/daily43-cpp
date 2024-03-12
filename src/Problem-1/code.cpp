@@ -1,3 +1,20 @@
+/* **************************************************************************
+ * Copyright 2024 The OpenGenus.org Authors. All Rights Reserved.
+ *
+ * Licensed under the GNU General Public License, Version 3.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *     http://www.gnu.org/licenses/gpl-3.0.html
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ *
+ * *************************************************************************/
+
 #include <iostream>
 #include <vector>
 #include <unordered_map>
@@ -35,24 +52,28 @@ int main() {
 
     // Process each test case
     for (int i = 0; i < inputs.size(); ++i) {
-        // Call the twoSum function
-        vector<int> result = twoSum(inputs[i], targets[i]);
+        try {
+            // Call the twoSum function
+            vector<int> result = twoSum(inputs[i], targets[i]);
 
-        // Print the input and output
-        cout << "Test Case " << i + 1 << ":\n";
-        cout << "Input: [";
-        for (int num : inputs[i]) {
-            cout << num << " ";
+            // Print the input and output
+            cout << "Test Case " << i + 1 << ":\n";
+            cout << "Input: [";
+            for (int num : inputs[i]) {
+                cout << num << " ";
+            }
+            cout << "]\n";
+            cout << "Target: " << targets[i] << "\n";
+            
+            // Output the result
+            cout << "Output: [";
+            for (int num : result) {
+                cout << num << " ";
+            }
+            cout << "]\n\n";
+        } catch (const exception& e) {
+            cerr << "Error: " << e.what() << endl;
         }
-        cout << "]\n";
-        cout << "Target: " << targets[i] << "\n";
-        
-        // Output the result
-        cout << "Output: [";
-        for (int num : result) {
-            cout << num << " ";
-        }
-        cout << "]\n\n";
     }
 
     return 0;
