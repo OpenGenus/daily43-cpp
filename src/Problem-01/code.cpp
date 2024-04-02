@@ -1,6 +1,8 @@
 /* **************************************************************************
  * Copyright 2024 The OpenGenus.org Authors. All Rights Reserved.
  *
+ * Code for the book "DAILY 43: Algorithmic Problems for Coding Interviews: Easy level, C++ edition"
+ *
  * Licensed under the GNU General Public License, Version 3.0 (the "License");
  * you may not use this file except in compliance with the License.
  * You may obtain a copy of the License at
@@ -13,6 +15,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  *
+ * For details about the book, please visit: https://www.amazon.com/dp/B0CZJNBLQS
  * *************************************************************************/
 
 #include <iostream>
