@@ -1,0 +1,3 @@
+Max Profit Test Case 1: 5
+Max Profit Test Case 2: 0
+Max Profit Test Case 3: 8
