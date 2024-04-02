@@ -1,0 +1,3 @@
+Input 1 is valid
+Input 2 is valid
+Input 3 is invalid
