@@ -1,0 +1,4 @@
+Peek: 1
+Pop: 1
+Peek: 2
+Is queue empty? No
