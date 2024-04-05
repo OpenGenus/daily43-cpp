@@ -1,0 +1,1 @@
+"anagram" and "nagaram" are anagrams.
