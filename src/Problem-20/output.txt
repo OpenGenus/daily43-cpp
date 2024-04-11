@@ -1,0 +1,1 @@
+Diameter of the binary tree is: 3
