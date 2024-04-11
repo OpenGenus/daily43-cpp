@@ -1,0 +1,1 @@
+The sum of 101 and 1101 in binary is: 10010
