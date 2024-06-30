@@ -1,0 +1,4 @@
+S: ab#c, T: ad#c -> true
+S: ab##, T: c#d# -> true
+S: a##c, T: #a#c -> true
+S: a#c, T: b -> false
