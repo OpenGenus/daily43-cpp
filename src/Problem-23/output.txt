@@ -1,0 +1,5 @@
+Roman: III -> Integer: 3
+Roman: IV -> Integer: 4
+Roman: IX -> Integer: 9
+Roman: LVIII -> Integer: 58
+Roman: MCMXCIV -> Integer: 1994
