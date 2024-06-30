@@ -1,0 +1,7 @@
+Number of set bits from 0 to 5 are:
+Number 0 has 0 set bits.
+Number 1 has 1 set bits.
+Number 2 has 1 set bits.
+Number 3 has 2 set bits.
+Number 4 has 1 set bits.
+Number 5 has 2 set bits.
