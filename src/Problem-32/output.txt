@@ -1,0 +1,2 @@
+Original Linked List: 1 2 3 2 1 
+The linked list is a palindrome.
