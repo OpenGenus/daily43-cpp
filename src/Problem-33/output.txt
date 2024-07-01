@@ -1,0 +1,2 @@
+Tree 1 is symmetric.
+Tree 2 is not symmetric.
