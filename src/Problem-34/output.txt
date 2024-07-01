@@ -1,0 +1,1 @@
+Sorted squares: 0 1 9 16 100
