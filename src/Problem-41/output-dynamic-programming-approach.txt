@@ -1,0 +1,5 @@
+Does Alice win with N = 2? Yes
+Does Alice win with N = 3? No
+Does Alice win with N = 4? Yes
+Does Alice win with N = 5? No
+Does Alice win with N = 6? Yes
