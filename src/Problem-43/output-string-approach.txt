@@ -1,0 +1,4 @@
+Number of divisor substrings: 2
+Number of divisor substrings: 2
+Number of divisor substrings: 3
+Number of divisor substrings: 1
