@@ -6,4 +6,4 @@ This is the best way to prepare Algorithmic and Data Structure problems for Codi
 
 | Problem # | Difficulty Level | Concepts |
 | :---         |     :---:      |          ---: |
-| [Problem 1](tree/main/src/Problem-01) | Easy | Hash Set, Binary Search, Two Pointer |
+| [Problem 1](/src/Problem-01) | Easy | Hash Set, Binary Search, Two Pointer |
