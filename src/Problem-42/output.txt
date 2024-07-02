@@ -1,0 +1,4 @@
+Minimum cost to reach the top: 15
+Minimum cost to reach the top: 6
+Minimum cost to reach the top: 0
+Minimum cost to reach the top: 6
