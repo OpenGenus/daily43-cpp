@@ -4,6 +4,8 @@
 
 This is the best way to prepare Algorithmic and Data Structure problems for Coding Interviews.
 
+Get [the book](https://amzn.to/3zA2yze) to follow along this repository and level up.
+
 | Problem # | Difficulty Level | Concepts | Time to solve<br>(in minutes) |
 | :---         |     :---:      |          ---: | :---: |
 | [Problem 1](/src/Problem-01) | Easy | Hash Set, Binary Search, Two Pointer | 15 min |
