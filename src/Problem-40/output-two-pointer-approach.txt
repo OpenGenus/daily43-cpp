@@ -1,0 +1,5 @@
+Is 'abc' a subsequence of 'ahbgdc'? Yes
+Is 'axc' a subsequence of 'ahbgdc'? No
+Is 'abc' a subsequence of 'abcd'? Yes
+Is 'ace' a subsequence of 'abcde'? Yes
+Is 'xyz' a subsequence of 'xaybz'? Yes
