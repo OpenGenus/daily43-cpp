@@ -6,6 +6,8 @@ This is the best way to prepare Algorithmic and Data Structure problems for Codi
 
 Get [the book](https://amzn.to/3zA2yze) to follow along this repository and level up.
 
+<img height="200px" alt="DAILY43" src="https://github.com/user-attachments/assets/7b23202e-7a60-48ed-8333-30d1388e9f32">
+
 | Problem # | Difficulty Level | Concepts | Time to solve<br>(in minutes) |
 | :---         |     :---:      |          ---: | :---: |
 | [Problem 1](/src/Problem-01) | Easy | Hash Set, Binary Search, Two Pointer | 15 min |
