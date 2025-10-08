@@ -1,10 +1,9 @@
 # DAILY43
 
-**DAILY43**: Algorithmic Problems for Coding Interviews: Easy level, C++ edition
+_Practice these **43 problems** to build your foundation in Data Structures and Algorithms_. If you are struggling with DSA or have no knowledge in problem solving, this is the best place to start. At the end, you will master core DSA concepts and will be able to solve any EASY-tagged problem within 15 minutes. **No prerequisite needed**.
 
-This is the best way to prepare Algorithmic and Data Structure problems for Coding Interviews.
-
-Get [the book](https://amzn.to/3zA2yze) to follow along this repository and level up.
+**DAILY43**: Algorithmic Problems for Coding Interviews: Easy level, C++ edition.
+Get [the book](https://amzn.to/3zA2yze) to follow along this repository with detailed explanation of related concepts and level up.
 
 <img height="200px" alt="DAILY43" src="https://github.com/user-attachments/assets/7b23202e-7a60-48ed-8333-30d1388e9f32">
 
